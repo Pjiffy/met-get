@@ -1,3 +1,0 @@
-[console_scripts]
-met-get = met_get_package.bin.met_get:main
-
