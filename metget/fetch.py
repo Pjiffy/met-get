@@ -1,7 +1,7 @@
 import requests
 from formatter import taf_format
 
-AVWX_API_key = "I9pDpPLfzjwuw48MPGw5ss4Or83SlksdbF-4yzeUQ-k"  # COPY API KEY HERE
+AVWX_API_key = " "  # COPY API KEY HERE
 
 
 def mfetch(station_id: str):
